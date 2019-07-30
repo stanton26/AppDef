@@ -8,7 +8,7 @@ classes: wide
 comments: true
 ---
 
-Listed below are a number of videos which have been produced by [Jeffrey Moore](https://www.linkedin.com/in/jefmoore/) from the VMware Cloud on AWS Partner team at VMware which you can follow to show how to configure various features on the VMware Cloud on AWS Platform.
+Listed below are a number of videos which have been produced by our AppDefense Team 
 
 ## vMotion from your on-premise datacenter to VMware Cloud on AWS
 

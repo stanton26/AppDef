@@ -1,16 +1,16 @@
 ---
 layout: single
 permalink: /links/
-title: "VMware Cloud on AWS Useful Links"
+title: "VMware Appdefense Useful Links"
 date: 2018-06-01
 tags: links
 classes: wide
 ---
 
 Link | Description
-[VMware Cloud on AWS Sizer](https://vmcsizer.vmware.com/){:target="_blank"} | This link will take you to the VMware on AWS sizing tool, this will allow you to understand how many hosts you will potentially need in VMware on AWS should you wish to migrate workloads to the platform from on-premise
-[VMware Cloud on AWS Pricing Calculator](https://cloud.vmware.com/vmc-aws-pricing){:target="_blank"} | This link will take you to the VMware on AWS pricing calculator, this will allow you to understand the way the solution is priced
-[VMware Cloud on AWS Public Roadmap](https://cloud.vmware.com/vmc-aws/roadmap){:target="_blank"} | This link will take you to the VMware on AWS public roadmap so that you can gain insight into where the platform direction is going and understand timelines as to when we will release new features
+[AppDefense Manager Login](https://appdefense.vmware.com/app/sign-in-user){:target="_blank"} | This link will take you to the Appdefense Manager login page.
+[Getting Started with AppDefense ](https://docs.vmware.com/en/VMware-AppDefense/services/appdefense-getting-started/GUID-1EE525C8-04EB-40CE-A10A-AE24B00B746D.html){:target="_blank"} | This link will take you to the "AppDefense Getting Started" page on the official Vmware Docs site. 
+[AppDefense Overview](https://docs.vmware.com/en/VMware-AppDefense/services/appdefense-getting-started/GUID-610767DD-9DE8-4C62-83B8-325503D41CEE.html){:target="_blank"} | This link will take you to the "Appdefense Overview" page 
 [VMware Cloud on AWS Hands on Lab](https://www.vmware.com/try-vmware/vmc-aws-hol-labs.html){:target="_blank"} | The official VMware on AWS Hands on Lab
 [VMware Cloud on AWS Documentation](https://docs.vmware.com/en/VMware-Cloud-on-AWS/index.html){:target="_blank"} | Online documentation for the VMware on AWS platform
 [VMware Marketplace](https://marketplace.vmware.com/vsx/?product=3450,3429){:target="_blank"} | VMware Marketplace
